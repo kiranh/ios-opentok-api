@@ -1,0 +1,256 @@
+TiCodeBlogUrl
+v7
+r0
+t377078616.561280
+cCheck dependencies
+cProcessInfoPlistFile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/Info.plist iCodeBlogUrl-Info.plist
+cCompileXIB /Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib
+cCompileXIB /Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib
+cProcessPCH /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch.gch iCodeBlogUrl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/main.o /Users/kiran/Documents/iCodeBlogUrl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlAppDelegate.o /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlViewController.o /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl normal i386
+cGenerateDSYMFile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl
+cTouch /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.h
+c0000000050C9897800000000000001F6
+t1355385208
+s502
+i<UIKit/UIKit.h>
+
+N/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m
+c0000000050C98BA60000000000000BC3
+t1355385766
+s3011
+i"iCodeBlogUrlAppDelegate.h"
+i"iCodeBlogUrlViewController.h"
+
+N/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.h
+c0000000050C9897800000000000000F6
+t1355385208
+s246
+i<UIKit/UIKit.h>
+
+N/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m
+c0000000050C9897800000000000005CE
+t1355385208
+s1486
+i"iCodeBlogUrlViewController.h"
+
+N/Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib
+c0000000050C989780000000000004E65
+t1355385208
+s20069
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app
+t1355385816
+s238
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM
+t1355385816
+s102
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/Info.plist
+t1355385813
+s611
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/MainWindow.nib
+t1355385814
+s1133
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/PkgInfo
+t1355385813
+s8
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl
+t1355385816
+s17552
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrlViewController.nib
+t1355385814
+s795
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrl.LinkFileList
+c0000000050C98BD500000000000001AC
+t1355385813
+s428
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlAppDelegate.o
+t1355385816
+s52668
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlViewController.o
+t1355385816
+s37600
+
+N/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/main.o
+t1355385816
+s6296
+
+N/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib
+c0000000050C989780000000000001A59
+t1355385208
+s6745
+
+N/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrl_Prefix.pch
+c0000000050C9897800000000000000C1
+t1355385208
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/kiran/Documents/iCodeBlogUrl/main.m
+c0000000050C989780000000000000167
+t1355385208
+s359
+i<UIKit/UIKit.h>
+
+N/var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch.gch
+t1355385816
+s15453392
+
+NiCodeBlogUrl-Info.plist
+c0000000050C98978000000000000038D
+t1355385208
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies377078613#377078613#0(0"0(0#1#0"8609655680#0"0#
+
+CCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlAppDelegate.o /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s377078616.162297
+e377078616.283186
+r1
+xCompileC
+xbuild/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlAppDelegate.o
+x/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m377078616#377078616#0(0"0(0#0#69"/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m8600385536#2027"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-generated-files.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-own-target-headers.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-all-target-headers.hmap -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-project-headers.hmap -F/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -I/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/include -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources/i386 -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources -include /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch -c /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlAppDelegate.m -o /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlAppDelegate.o0#
+
+CCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlViewController.o /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s377078616.254949
+e377078616.336176
+r1
+xCompileC
+xbuild/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlViewController.o
+x/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m377078616#377078616#0(0"0(0#0#72"/Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m8612452384#2033"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-generated-files.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-own-target-headers.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-all-target-headers.hmap -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-project-headers.hmap -F/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -I/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/include -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources/i386 -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources -include /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch -c /Users/kiran/Documents/iCodeBlogUrl/Classes/iCodeBlogUrlViewController.m -o /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrlViewController.o0#
+
+CCompileC build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/main.o /Users/kiran/Documents/iCodeBlogUrl/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s377078616.160679
+e377078616.254828
+r1
+xCompileC
+xbuild/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/main.o
+x/Users/kiran/Documents/iCodeBlogUrl/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/kiran/Documents/iCodeBlogUrl/main.m377078616#377078616#0(0"0(0#0#42"/Users/kiran/Documents/iCodeBlogUrl/main.m8603550592#1981"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-generated-files.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-own-target-headers.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-all-target-headers.hmap -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-project-headers.hmap -F/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -I/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/include -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources/i386 -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources -include /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch -c /Users/kiran/Documents/iCodeBlogUrl/main.m -o /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib
+s377078613.977891
+e377078614.643432
+r1
+xCompileXIB
+x/Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib377078613#377078614#0(0"0(0#0#50"/Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib8612901568#566"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/MainWindow.nib /Users/kiran/Documents/iCodeBlogUrl/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib
+s377078613.981338
+e377078614.628065
+r1
+xCompileXIB
+x/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib
+lSLF07#2@41"CompileXIB iCodeBlogUrlViewController.xib377078613#377078614#0(0"0(0#0#66"/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib8612650944#598"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrlViewController.nib /Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrlViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl
+s377078616.507614
+e377078616.556500
+r1
+xGenerateDSYMFile
+x/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM
+x/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl377078616#377078616#0(0"0(0#0#93"/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl8612215584#389"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl -o /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app.dSYM0#
+
+CLd /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl normal i386
+s377078616.336284
+e377078616.507491
+r1
+xLd
+x/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl
+xnormal
+xi386
+lSLF07#2@98"Link /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl377078616#377078616#0(0"0(0#0#0"8614439808#910"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -F/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -filelist /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/Objects-normal/i386/iCodeBlogUrl.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/iCodeBlogUrl0#
+
+CProcessInfoPlistFile /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/Info.plist iCodeBlogUrl-Info.plist
+s377078613.956885
+e377078613.977786
+r1
+xProcessInfoPlistFile
+x/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/Info.plist
+xiCodeBlogUrl-Info.plist
+lSLF07#2@31"Process iCodeBlogUrl-Info.plist377078613#377078613#0(0"0(0#0#59"/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrl-Info.plist8603474976#485"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility iCodeBlogUrl-Info.plist -genpkginfo /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app/Info.plist0#
+
+CProcessPCH /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch.gch iCodeBlogUrl_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s377078614.643665
+e377078616.160492
+r1
+xProcessPCH
+x/var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch.gch
+xiCodeBlogUrl_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile iCodeBlogUrl_Prefix.pch377078614#377078616#0(0"0(0#0#59"/Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrl_Prefix.pch8611367680#1871"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-generated-files.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-own-target-headers.hmap -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-all-target-headers.hmap -iquote /Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/iCodeBlogUrl-project-headers.hmap -F/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator -I/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/include -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources/i386 -I/Users/kiran/Documents/iCodeBlogUrl/build/iCodeBlogUrl.build/Debug-iphonesimulator/iCodeBlogUrl.build/DerivedSources -c /Users/kiran/Documents/iCodeBlogUrl/iCodeBlogUrl_Prefix.pch -o /var/folders/yL/yLxjl1qAGwSSVwNtVIn57++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iCodeBlogUrl_Prefix-fjnjhtkltcsoqrfdjxmpjsjxekwr/iCodeBlogUrl_Prefix.pch.gch0#
+
+CTouch /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app
+s377078616.556603
+e377078616.561245
+r1
+xTouch
+x/Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app
+lSLF07#2@86"Touch /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app377078616#377078616#0(0"0(0#0#0"8611947648#277"    cd /Users/kiran/Documents/iCodeBlogUrl    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kiran/Documents/iCodeBlogUrl/build/Debug-iphonesimulator/iCodeBlogUrl.app0#
+
