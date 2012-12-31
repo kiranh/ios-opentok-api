@@ -4,7 +4,7 @@
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1965, 1131}}";
 			sepNavSelRange = "{989, 0}";
-			sepNavVisRange = "{0, 1938}";
+			sepNavVisRange = "{0, 1829}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* iCodeBlogUrl */ = {
@@ -13,10 +13,21 @@
 			9F3613981679C0F8001F4377 /* iCodeBlogUrl */,
 		);
 	};
+	28D7ACF70DDB3853001CB0EB /* iCodeBlogUrlViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1102, 1300}}";
+			sepNavSelRange = "{379, 0}";
+			sepNavVisRange = "{1021, 1553}";
+			sepNavWindowFrame = "{{19, 315}, {750, 558}}";
+		};
+	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 9F3613981679C0F8001F4377 /* iCodeBlogUrl */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* iCodeBlogUrl */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* iCodeBlogUrl */,
+		);
 		codeSenseManager = 9F3613A51679C10D001F4377 /* Code sense */;
 		executables = (
 			9F3613981679C0F8001F4377 /* iCodeBlogUrl */,
@@ -44,12 +55,26 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 377105972;
-			PBXWorkspaceStateSaveDate = 377105972;
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					953,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 378628341;
+			PBXWorkspaceStateSaveDate = 378628341;
 		};
 		perUserProjectItems = {
-			9F37480E167A2E3800CD4B9E /* PBXTextBookmark */ = 9F37480E167A2E3800CD4B9E /* PBXTextBookmark */;
-			9F374819167A2E3800CD4B9E /* PBXTextBookmark */ = 9F374819167A2E3800CD4B9E /* PBXTextBookmark */;
+			9F5B0844169167050010D7E0 /* PBXTextBookmark */ = 9F5B0844169167050010D7E0 /* PBXTextBookmark */;
+			9F9D294C1691757D002C75BC /* PBXTextBookmark */ = 9F9D294C1691757D002C75BC /* PBXTextBookmark */;
+			9F9D294D1691757D002C75BC /* XCBuildMessageTextBookmark */ = 9F9D294D1691757D002C75BC /* XCBuildMessageTextBookmark */;
+			9F9D295916917617002C75BC /* PBXTextBookmark */ = 9F9D295916917617002C75BC /* PBXTextBookmark */;
 		};
 		sourceControlManager = 9F3613A41679C10D001F4377 /* Source Control */;
 		userBuildSettings = {
@@ -97,24 +122,50 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
-	9F37480E167A2E3800CD4B9E /* PBXTextBookmark */ = {
+	9F5B0844169167050010D7E0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 1D3623250D0F684500981E51 /* iCodeBlogUrlAppDelegate.m */;
 		name = "iCodeBlogUrlAppDelegate.m: 33";
 		rLen = 0;
 		rLoc = 989;
 		rType = 0;
-		vrLen = 1938;
+		vrLen = 1829;
 		vrLoc = 0;
 	};
-	9F374819167A2E3800CD4B9E /* PBXTextBookmark */ = {
+	9F9D29271691753D002C75BC /* SBJsonStreamParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {747, 2275}}";
+			sepNavSelRange = "{4433, 0}";
+			sepNavVisRange = "{4345, 307}";
+		};
+	};
+	9F9D294C1691757D002C75BC /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 1D3623250D0F684500981E51 /* iCodeBlogUrlAppDelegate.m */;
-		name = "iCodeBlogUrlAppDelegate.m: 33";
+		fRef = 28D7ACF70DDB3853001CB0EB /* iCodeBlogUrlViewController.m */;
+		name = "iCodeBlogUrlViewController.m: 12";
 		rLen = 0;
-		rLoc = 989;
+		rLoc = 379;
 		rType = 0;
-		vrLen = 1938;
-		vrLoc = 0;
+		vrLen = 1553;
+		vrLoc = 1021;
+	};
+	9F9D294D1691757D002C75BC /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected a property attribute before 'unsafe_unretained'";
+		fRef = 9F9D29271691753D002C75BC /* SBJsonStreamParser.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 124;
+		rType = 1;
+	};
+	9F9D295916917617002C75BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 9F9D29271691753D002C75BC /* SBJsonStreamParser.h */;
+		name = "SBJsonStreamParser.h: 125";
+		rLen = 0;
+		rLoc = 4433;
+		rType = 0;
+		vrLen = 1891;
+		vrLoc = 3633;
 	};
 }
